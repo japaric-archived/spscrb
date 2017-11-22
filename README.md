@@ -1,3 +1,14 @@
+# Status
+
+This crate has been **DEPRECATED** in favor of the [`heapless`] crate and won't received updates or
+bug fixes.
+
+[`heapless`]: https://github.com/japaric/heapless
+
+-- @japaric, 2017-11-22
+
+---
+
 # `spscrb`
 
 > Statically allocated, interrupt-safe, lock-free, single producer single consumer ring buffer
